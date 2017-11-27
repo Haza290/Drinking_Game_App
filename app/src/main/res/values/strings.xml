@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drinking Game App</string>
+    <string name="new_card_button">Add New Card</string>
+    <string name="new_text_button">Add New Text</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save As</string>
+    <string name="cancel">Cancel</string>
+</resources>

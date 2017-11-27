@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<events>
+    <event
+        type="three in five"
+        players="1">
+        <text>Name 3 things you can say about your pet but not your partner</text>
+    </event>
+
+    <event
+        type="multi"
+        players="1">
+        <text>~A drink 5 times</text>
+        <text>~A is cool</text>
+    </event>
+
+    <event
+        type="multi"
+        players="1">
+        <text>This is multi 1</text>
+        <text>This is multi 2</text>
+        <text>This is multi 3</text>
+        <text>This is multi 4</text>
+        <text>This is multi 5</text>
+    </event>
+
+    <event
+        type="multi"
+        players="1">
+        <text>This is multi A</text>
+        <text>This is multi B</text>
+        <text>This is multi C</text>
+    </event>
+
+    <event
+        type="standard"
+        players="2">
+        <text>~A is cooler than ~B</text>
+    </event>
+
+    <event
+        type="standard"
+        players="0">
+        <text>drink you bitch</text>
+    </event>
+
+    <event
+        type="standard"
+        players="0">
+        <text>drink you pig</text>
+    </event>
+
+    <event
+        type="standard"
+        players="2">
+        <text>~A is better than ~B</text>
+        <text offset="2">~A is no longer better than ~B</text>
+    </event>
+
+    <event
+        type="standard"
+        players="0">
+        <text>drink you bastard</text>
+    </event>
+
+    <event
+        type="standard"
+        players="1">
+        <text>~A is gay</text>
+        <text offset="3">~A is no longer gay</text>
+    </event>
+
+
+</events>

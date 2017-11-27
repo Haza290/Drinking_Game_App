@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<deckList>
+    <deck>
+        <name>Test</name>
+        <description>This is a standard deck</description>
+        <picture>null</picture>
+        <fileName>testing_deck</fileName>
+    </deck>
+
+    <deck>
+        <name>Really Cool Deck</name>
+        <description>This is a really really cool deck</description>
+        <picture>null</picture>
+        <fileName>really_cool_deck</fileName>
+    </deck>
+</deckList>

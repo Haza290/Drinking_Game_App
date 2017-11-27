@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<deck>
+    <deckName>Standard</deckName>
+    <deckInfo>This is the basic deck</deckInfo>
+    <picture></picture>
+
+    <deckInfo>This is super super cool cool deck</deckInfo>
+
+    <event>
+        <card type="standard">
+            <text>~A [drink/Give out] [2-5] sips</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>~A pick ~B or ~C to drink 5 times</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Drink 2 times if you have made love in a bed that wasn't yours or your partners</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Drink 4 times if you have never played a drinking game</text>
+        </card>
+        <card type="standard">
+            <text>If no one just drank you all have to drink 2 now you bunch of alcys</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>The youngest player in the rooms, give out [2-5] sips</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Drink [2-5] times if you have taken someons virginaty</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Drink [2-5] times if you have fucked in the last 2 days</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Drink 2 times if you have made love in a bed that wasn't yours or your partners</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Players who [are/aren't] drinking hard alcohol, [drink/give out] [2-3] sips</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>[Drink/Give out] [2-4] sips if you [have/haven't] seen one of the other players naked</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>[Drink/Give out] [2-4] sips if you [are/aren't] drinking alcohol that you bought</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Give out [3-5] sips if someone else is drinking alcohol that you bought</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>If you [do/don't] believe in ghosts [drink/give out] [2-4] sip</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>Drink [2-5] times if you have ever fucked at work</text>
+        </card>
+    </event>
+
+    <event>
+        <card type="standard">
+            <text>If you don't have ~A number drink [2-5] times</text>
+        </card>
+    </event>
+
+</deck>
